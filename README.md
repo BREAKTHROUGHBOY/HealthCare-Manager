@@ -1,6 +1,6 @@
 # 🩺 HealthSync
 
-A smart and simple healthcare management system built to bridge the gap between **patients** and **doctors** through structured data, fast appointments, and AI-ready insights.
+A smart and simple healthcare management system built to bridge the gap between ** diabetic patients** and **doctors** through structured data, fast appointments, and AI-ready insights.
 
 > **By:** Ganesh (aka **BREAKTHROUGH BOY**)  
 > **License:** MIT  
